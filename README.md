@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yungsaas
-- 👀 I’m interested in programming
-- 🌱 I’m currently studying game development
-- 📫 How to reach me through messages on discord: Ysaax
+- 🌱 I’m currently studying game development -> programming
+- 📫 How to reach me:
+- - Discord: Ysaacs
+  - Email: mikshal00(at)gmail.com
 
